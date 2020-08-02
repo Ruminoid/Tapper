@@ -10,10 +10,9 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Ruminoid.Tapper.Timer
+namespace Ruminoid.Tapper.Timer.Windows
 {
     /// <summary>
     /// MainWindow.xaml 的交互逻辑
